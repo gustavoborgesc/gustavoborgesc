@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavoborgesc
-- 👀 I’m interested in: Javascript, React, Next.js, Vue.js, Svelte, Tailwind, PHP.
-- 🌱 I’m currently learning: React, Next.js, Tailwind.
+- 👀 I’m interested in: Javascript, React, Next.js, Vue.js, Svelte, Tailwind, PHP, Node.js.
+- 🌱 I’m currently learning: React, Next.js, Tailwind, Node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Linkedin
 
